@@ -1,1 +1,7 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+This is a sample Node.js program that scraps the bbc travel website.
+
+Run the Node.js server and pass the argument (name of the place) to the site in the place parameter.
+
+for example: http://localhost:8081/scrape?place=delhi
+
+You will get the Title, Summary and Image in each articles related to the place from the bbc.com/travel.
