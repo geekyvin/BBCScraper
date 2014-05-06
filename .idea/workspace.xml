@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" name="Default" comment="" />
+    <list default="true" id="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/server.js" changelist="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" time="1399353985548" ignored="false" />
@@ -365,7 +367,7 @@
     <file path="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/combined-stream/test/integration/test-delayed-streams.js" changelist="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" time="1399309672774" ignored="false" />
     <file path="$PROJECT_DIR$/node_modules/cheerio/node_modules/CSSselect/test/nth-check.js" changelist="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" time="1399309672774" ignored="false" />
     <file path="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/combined-stream/test/integration/test-data-size.js" changelist="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" time="1399309672774" ignored="false" />
-    <file path="/Dummy.txt" changelist="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" time="1399354442434" ignored="false" />
+    <file path="/Dummy.txt" changelist="0fa1c94f-9050-4f54-8b8b-3b79fda8707f" time="1399354742684" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -688,7 +690,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
+    <frame x="-9" y="-9" width="1384" height="738" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
